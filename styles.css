@@ -150,8 +150,8 @@ body {
 
 .golden-acorn {
     position: absolute;
-    left: 5%;  /* Adjust the left margin to position it within the page */
-    bottom: 5%; /* Keep it near the bottom */
+    left: 25%;  /* Adjust the left margin to position it within the page */
+    bottom: 25%; /* Keep it near the bottom */
     width: auto;
     height: auto;
     max-width: 100px;  /* Limit the max width */
